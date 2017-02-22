@@ -1,0 +1,16 @@
+
+.bg-primary {
+  color: #fff;
+  background-color: #99bd3c;
+}
+a.bg-primary:hover {
+  background-color: #99bd3c;
+}
+.announcement {
+  color: #99bd3c
+}
+
+/*.service-item img {
+  max-width: 400px;
+}*/
+
